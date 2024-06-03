@@ -3,7 +3,7 @@
 
 
 
-# Time management (currently)
+# Project Web
 - 🔭 I am currently working on a "WORDLE" extension for Chrome and Edge.
 - 🌱 I am currently learning about LLM, backpropagation, and robotics integration.
 - 👯 I am looking to collaborate on cybersecurity-related exploits such as ducky scripts.
