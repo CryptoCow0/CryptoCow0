@@ -4,7 +4,7 @@
 
 
 # Project Map
-- 🔭 I finished Version 1.0.0 of my "WORDLE" game extension! Currently undergoing review process.
+- 🔭 I finished Version 1.0.0 of my "WORDLE" game extension! Free to download on Chrome Web Store.
 - 🌱 I am currently learning about LLM, backpropagation, and robotics integration.
 - 👯 I am looking to collaborate on cybersecurity-related exploits such as keylogging exploits.
 
