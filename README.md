@@ -6,7 +6,7 @@
 # Project Map
 - 🔭 I finished Version 1.0.0 of my "WORDLE" game extension! Free to download on Chrome Web Store.
 - 🌱 I am working on an ethical lab for a keylogging exploit using Bluetooth.
-- 
+
 
 # Interests
 - Software Engineering
