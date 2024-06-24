@@ -10,7 +10,7 @@
 
 # Interests
 - Software Engineering
-- Cybersecurity
+- Embedded System Exploitation
 - SQL exploits
 - LLM integration with current Robotic systems
 
