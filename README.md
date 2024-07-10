@@ -5,8 +5,8 @@
 
 # Project Map
 - 🔭 I finished Version 1.0.0 of my "WORDLE" game extension! Free to download on Chrome Web Store.
-- 🔭 I finished the first part of my Ethical Keylogging lab! Working on low level code for exploit.
-- 🌱 I am working as a Researcher at the Colorado School of Mines in the field of robotics.
+- 🔭 I finished the first part of my Ethical Keylogging lab! Working on low-level code for exploitation.
+- 🌱 I am working as a Researcher at the Colorado School of Mines in robotics.
 
 
 # Interests
@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
