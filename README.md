@@ -6,7 +6,7 @@
 # Project Map
 - 🔭 I finished Version 1.0.0 of my "WORDLE" game extension! Free to download on Chrome Web Store.
 - 🔭 I finished the first part of my Ethical Keylogging lab! Working on low-level code for exploitation.
-- 🌱 I am working as a Researcher at the Colorado School of Mines in robotics.
+- 🌱 I am working as a Researcher at the Colorado School of Mines looking at how human-robotic interaction can aid migrant and unhoused community members.
 
 
 # Interests
