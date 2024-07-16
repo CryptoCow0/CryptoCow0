@@ -4,7 +4,7 @@
 
 
 # Project Map
-- 🔭 I finished Version 1.1.1 of my "WORDLE" game extension! Added a Spanish functionality for more users to enjoy! Free to download in the <a href="https://example.com/myproject" target="_blank">Chrome webstore</a>
+- 🔭 I finished Version 1.1.1 of my "WORDLE" game extension! Added a Spanish functionality for more users to enjoy! Free to download in the <a href="https://chromewebstore.google.com/detail/wordle-extension-game/ekadgaocdogebigkompdkplnopgigpel?authuser=0&hl=en" target="_blank">Chrome webstore</a>
 - 🔭 I finished the first part of my Ethical Keylogging lab! Working on low-level code for exploitation.
 - 🌱 I am working as a Researcher at the Colorado School of Mines looking at how human-robotic interaction can aid migrant and unhoused community members.
 
