@@ -20,7 +20,7 @@
 - Student at Colorado School of Mines interested in all aspects of Computer Science and looking for technical experience.
 - Passionate about the place of ethics in the development of new technologies.
 - Passionate about security around users' data manipulation.
-- Profile Picture is Mahoragas Wheel which represents constant adaption to anything.
+- Profile Picture is "Mahoragas Wheel" which represents constant adaption to anything.
 
 
 <!--
