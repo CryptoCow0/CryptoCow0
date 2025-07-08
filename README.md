@@ -7,17 +7,17 @@
 - 🔭 I finished Version 1.1.1 of my "WORDLE" game extension! Added a Spanish functionality for more users to enjoy! Free to download in the <a href="https://chromewebstore.google.com/detail/wordle-extension-game/ekadgaocdogebigkompdkplnopgigpel?authuser=0&hl=en" target="_blank">Chrome webstore</a>
 - 🔭 I finished the first part of my Ethical Keylogging lab! Working on low-level code for exploitation.
 - 🔭 I completed my preliminary research at the Colorado School of Mines, funded through SURF, reseraching human robotic interaction in unhoused and Migrant communitites.
-- 🌱 I am working as a Researcher at the Colorado School of Mines looking at how advanced AI techniques can be used in cybersecurity for protection of users.
+- 🌱 I am working as a Software Developer Intern at Tyler Technologies.
 
 
 # Interests
 - Software Engineering
 - Embedded System Exploitation
 - SQL exploits
-- LLM integration with current Robotic systems
+- Full-Stack Work
 
 # About Myself
-- Student at Colorado School of Mines interested in all aspects of Computer Science and looking for technical experience.
+- Student at Colorado School of Mines interested in all aspects of Computer Science.
 - Passionate about the place of ethics in the development of new technologies.
 - Passionate about security around users' data manipulation.
 
