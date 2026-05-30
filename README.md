@@ -1,4 +1,4 @@
-![Vatican Flag](https://flagcdn.com/w40/va.png) 
+<!--![Vatican Flag](https://flagcdn.com/w40/va.png)--> 
 ## Welcome to my Github!
 
 
@@ -15,7 +15,7 @@
 # About Myself
 - Alumni from the Colorado School of Mines graudated with Honors in Computer Science.
 - Full Stack Developer
-
+![Vatican Flag](https://flagcdn.com/w40/va.png)
 
 <!--
 **CryptoCow0/CryptoCow0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
