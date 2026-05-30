@@ -5,16 +5,18 @@
 # Project Map
 - Planlli the assignment tracker version 1.0 is live! Check it out at <a href="https://Planlli.com">Planlli</a>
 - I finished Version 1.1.1 of my "WORDLE" game extension! Added a Spanish functionality for more users to enjoy! Free to download in the <a href="https://chromewebstore.google.com/detail/wordle-extension-game/ekadgaocdogebigkompdkplnopgigpel?authuser=0&hl=en" target="_blank">Chrome webstore</a>
-- Planlli the assignment tracker mobile application is in the works...
+- Planlli the assignment tracker mobile application is out! Check out out at <a href="https://apps.apple.com/us/app/planlli/id6757687160"> Planlli Mobile App</a>
   
 # Interests
 - Mobile Application to help accelerate small buisnesses
 - Software Engineering
+- Embedded Systems
 - Full-Stack Work
 
 # About Myself
 - Alumni from the Colorado School of Mines graudated with Honors in Computer Science.
 - Full Stack Developer
+- Mobile App Developer
 
 <!--
 **CryptoCow0/CryptoCow0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
