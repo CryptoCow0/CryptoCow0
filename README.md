@@ -1,4 +1,3 @@
-![Vatican Flag](https://flagcdn.com/w40/va.png)
 ## Hi I'm CryptoCow! I'm a mobile app developer interested in testing and correctness!
 
 # Personal Projects
@@ -11,6 +10,9 @@
 - Testing/correctness
 - Distributed systems
 - Property testing state space exploration
+
+
+![Vatican Flag](https://flagcdn.com/w40/va.png)
 
 <!--
 **CryptoCow0/CryptoCow0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
