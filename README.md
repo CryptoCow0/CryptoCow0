@@ -5,12 +5,12 @@
 <!--- I finished Version 1.1.1 of my "WORDLE" game extension! Added a Spanish functionality for more users to enjoy! Free to download in the <a href="https://chromewebstore.google.com/detail/wordle-extension-game/ekadgaocdogebigkompdkplnopgigpel?authuser=0&hl=en" target="_blank">Chrome webstore</a> 
 <!--- Planlli the assignment tracker mobile application is out! Check out out at <a href="https://apps.apple.com/us/app/planlli/id6757687160"> Planlli Mobile App</a>
 -->
-  
+<!--  
 # Interests
 - Cryptography
 - Algorithms
 - Property based testing
-
+-->
 ![Vatican Flag](https://flagcdn.com/w40/va.png)
 
 <!--
